@@ -23,8 +23,6 @@ The HTML structure was mostly done, I had to only adapt to what I felt more appr
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/naathcs/QR-code-component-hub/main/screenshots/mobile-screenshot.jpg" alt="Mobile Screenshot width="150" height="280">
-
 ![Desktop Screenshot](screenshots/desktop-screenshot.png "Desktop Screenshot")
 ![Mobile Screenshot](screenshots/mobile-screenshot.jpg "Mobile Screenshot")
 
