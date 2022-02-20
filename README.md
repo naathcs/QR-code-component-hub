@@ -23,7 +23,7 @@ The HTML structure was mostly done, I had to only adapt to what I felt more appr
 
 ### Screenshot
 
-![Desktop Screenshot](screenshots/desktop-screenshot.jpg "Desktop Screenshot" width="500" height="200")
+<img src="screenshots/desktop-screenshot.jpg" width="500" height="200">
 ![Mobile Screenshot](screenshots/mobile-screenshot.jpg "Mobile Screenshot" width="100" height="400")
 
 
