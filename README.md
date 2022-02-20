@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR code component Solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -23,9 +23,8 @@ The HTML structure was mostly done, I had to only adapt to what I felt more appr
 
 ### Screenshot
 
-<img src="screenshots/desktop-screenshot.jpg" width="500" height="200">
-![Mobile Screenshot](screenshots/mobile-screenshot.jpg "Mobile Screenshot" width="100" height="400")
-
+![Desktop Screenshot](screenshots/desktop-screenshot.jpg "Desktop Screenshot")
+![Mobile Screenshot](screenshots/mobile-screenshot.jpg "Mobile Screenshot")
 
 ### Links
 
